@@ -4,7 +4,7 @@ This project contains complete login and registration capabilities using Passpor
 
 ## Purpose
 
-This repository is an exercise to learn development with Passport.js and some other Node.js modules. Among these modules are Express and Mongoose. It is also an excellent opportunity to get to know MongoDB and authentication and validation with Node.js. The contents of this repository are loosely based on a tutorial by [Traversy Media]() on YouTube.
+This repository is an exercise to learn development with Passport.js and some other Node.js modules. Among these modules are Express and Mongoose. It is also an excellent opportunity to get to know MongoDB and authentication and validation with Node.js. The contents of this repository are loosely based on a tutorial by [Traversy Media](https://youtu.be/Z1ktxiqyiLA) on YouTube.
 
 ## Installation and setup
 
